@@ -1,6 +1,3 @@
-# parshv is a grade 8 student and is curious to know about the  different types of mirrors. in school he has studied that whatever object is placed in front of a mirror it gets reversed. parshv does a small experiment to see what if the words are placed in fron of the mirrors.
-# he observed that whatever he wrote on the paper it got reveresed. whethere it is a sentence or a word. also he observed that whitespace is also maintained. following this scenario he tries to write the code which can yeild the same mirror image results for different sets of string.
-
 # CONSTRAINTS
 # length(string)>=1
 
